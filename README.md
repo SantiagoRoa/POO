@@ -1,4 +1,4 @@
-# Ejercicios Curso de Modelos de Programación Orientada a Objetos
+# Ejercicios Curso de Programación Orientada a Objetos
 ### Universidad Distrital Francisco José de Caldas
 
 ### Descargo de responsabilidad
